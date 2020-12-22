@@ -1,3 +1,9 @@
+# Custom
+*.xlsx
+*.csv
+*datafile_from_python.txt
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
